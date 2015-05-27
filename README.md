@@ -1,6 +1,6 @@
 # Frontend-tools & Workflow
 
-## Mac tools
+## Mac apps
 
 * SnappyApp (para capturas de pantallas y organizacion)
 * ColorSnapper (Color picker)
