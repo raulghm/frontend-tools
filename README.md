@@ -2,28 +2,28 @@
 
 ## Mac apps
 
-* SnappyApp (Capturas de pantallas y organizacion) [Link](http://www.snappy-app.com/)
-* ColorSnapper (ColorPicker) [Link](http://colorsnapper.com/)
-* Tower (GUI para GIT) [Link](http://www.git-tower.com/)
-* Alfred (Productividad) [Link](http://www.alfredapp.com/)
-* TotalTerminal + OhMyZsh (Super Terminal) [Link TotalTerminal](http://totalterminal.binaryage.com), [Link OhMyZsh](https://github.com/robbyrussell/oh-my-zsh)
-* Dash (Para administrar documentaciones) [Link](https://kapeli.com/dash)
-* Slack (Comunicación con equipo) [Link](https://slack.com/)
-* SublimeText 3 + gitgutter, emmet, Spacegray, etc. (Editor de código) [Link](http://www.sublimetext.com/3)
+* [SnappyApp](http://www.snappy-app.com/) (Capturas de pantallas y organizacion)
+* [ColorSnapper](http://colorsnapper.com/) (Color picker)
+* [Tower](http://www.git-tower.com/) (GUI para GIT)
+* [Alfred](http://www.alfredapp.com/) (Productividad)
+* [TotalTerminal](http://totalterminal.binaryage.com) + [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) (Super Terminal)
+* [Dash](https://kapeli.com/dash) (Para administrar documentaciones)
+* [Slack](https://slack.com/) (Comunicación con equipo)
+* [SublimeText 3](http://www.sublimetext.com/3) + gitgutter, emmet, Spacegray, etc. (Editor de código)
 
 ## Automation tools
 
-* Bower
-* Gulp
-* Npm
+* [Bower](http://bower.io/)
+* [Gulp](http://gulpjs.com/)
 
-## Technologies
+## Technologies and Languages
 
-* Nodejs
-* Sass/Scss
-* JS
-* Handlebars
-* AngularJS
+* [NodeJS](https://nodejs.org/)
+* [Npm](https://www.npmjs.com)
+* [Sass/Scss](http://sass-lang.com/)
+* [JavaScript](https://www.javascript.com/)
+* [Handlebars](http://handlebarsjs.com/)
+* [AngularJS](https://angularjs.org/)
 
 ## Development Workflow
 
