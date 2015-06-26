@@ -2,14 +2,14 @@
 
 ## Mac apps
 
-* SnappyApp (para capturas de pantallas y organizacion)
-* ColorSnapper (Color picker)
-* Tower (gui para git)
-* Alfred
-* TotalTerminal + ZSH (extension de terminal)
-* Dash (para administrar documentaciones)
-* Slack
-* SublimeText (gitgutter, emmet, Spacegray, etc)
+* SnappyApp (Capturas de pantallas y organizacion) [Link](http://www.snappy-app.com/)
+* ColorSnapper (ColorPicker) [Link](http://colorsnapper.com/)
+* Tower (GUI para GIT) [Link](http://www.git-tower.com/)
+* Alfred (Productividad) [Link](http://www.alfredapp.com/)
+* TotalTerminal + OhMyZsh (Super Terminal) [Link TotalTerminal](http://totalterminal.binaryage.com), [Link OhMyZsh](https://github.com/robbyrussell/oh-my-zsh)
+* Dash (Para administrar documentaciones) [Link](https://kapeli.com/dash)
+* Slack (Comunicación con equipo) [Link](https://slack.com/)
+* SublimeText 3 + gitgutter, emmet, Spacegray, etc. (Editor de código) [Link](http://www.sublimetext.com/3)
 
 ## Automation tools
 
@@ -25,13 +25,13 @@
 * Handlebars
 * AngularJS
 
-## Workflow
+## Development Workflow
 
 ### Watch
-* Sass, html, js, handlebars
+* SCSS, HTML, JS, Handlebars
 
 ### Livereload
-* Browsersync
+* BrowserSync
 * Livereload extension
 
 ### Linting
